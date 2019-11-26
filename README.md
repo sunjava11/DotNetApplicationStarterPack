@@ -1,4 +1,4 @@
-# DotNetApplicationStarterPack
+# DotNet Application Starter Pack
 
 An extention method nuget package. To use in your everyday development needs.
 
